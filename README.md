@@ -8,14 +8,20 @@ test为测试目录
 
 - 语言：c/c++,python
 - 编辑器：vscode(力扣插件)
+- 1.cpp表示力扣题目ID为1的题
 
-```txt
+``` txt
 LeetCode
-├─ 1.两数之和.cpp
+├─ .gitignore
+├─ .vscode
+│  ├─ settings.json
+│  └─ tasks.json
+├─ 1.cpp
+├─ 217.cpp
 ├─ out
-│  └─ test1.exe
+│  ├─ 1.exe
+│  └─ 217.exe
 ├─ README.md
 └─ test
-   └─ test1.cpp
 
 ```
